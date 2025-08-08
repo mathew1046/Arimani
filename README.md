@@ -29,6 +29,15 @@ For Software:
 - **Libraries used**: Google Fonts ('Poppins') for that sleek, modern feel.
 - **Tools used**: Visual Studio Code, Git, GitHub, Vercel
 
+# Screenshots (Add at least 3)
+https://github.com/mathew1046/Arimani/blob/main/images/Homepage.png
+*This screenshot shows the homepage of the website*
+
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
+
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
 
 
