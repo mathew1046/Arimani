@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Names on Rice Grains</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="fade-in-up">Find Your Name on a Grain of Rice!</h1>
+            <p class="fade-in-up delay-1">Upload a picture of rice and let the magic happen.</p>
+        </header>
+
+        <main>
+            <div class="upload-container fade-in-up delay-2">
+                <input type="file" id="imageInput" accept="image/*" class="file-input">
+                <label for="imageInput" class="upload-button" tabindex="0">Upload Image</label>
+            </div>
+            <div class="image-preview-wrapper fade-in-up delay-3">
+                <img id="imagePreview" alt="Image Preview" class="image-preview hidden">
+            </div>
+            <button id="showNamesBtn" class="show-names-button hidden fade-in-up delay-4">Show Names</button>
+
+            <div id="resultsSection" class="results-section hidden fade-in-up delay-5">
+                <div class="stats">
+                    <span id="grainCount" class="grain-count">0</span>
+                    <span class="grain-label">rice grains visible.</span>
+                </div>
+                <div class="search-container">
+                    <input type="text" id="nameSearchInput" placeholder="Is your name here?" class="search-input">
+                    <button id="searchBtn" class="search-button">Search</button>
+                </div>
+                <div id="searchResult" class="search-result"></div>
+                <div id="namesDisplay" class="names-list-container"></div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="names.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
