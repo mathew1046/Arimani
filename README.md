@@ -27,7 +27,7 @@ For Software:
 - **Languages used**: HTML5, CSS3, JavaScript (ES6)
 - **Frameworks used**: None, this is pure, unadulterated vanilla JS.
 - **Libraries used**: Google Fonts ('Poppins') for that sleek, modern feel.
-- **Tools used**: Visual Studio Code, Git, GitHub
+- **Tools used**: Visual Studio Code, Git, GitHub, Vercel
 
 
 
