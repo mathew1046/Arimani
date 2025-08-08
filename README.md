@@ -39,6 +39,11 @@ For Software:
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/mathew1046/Arimani/blob/main/images/final.png" />
 *This screenshot shows the final output, that is the number of rice grains and the names on each grains.Also user can search their name.*
 
+### Project Demo
+# Video
+[![Watch the video](https://raw.githubusercontent.com/mathew1046/Arimani/main/images/homepage.png)](https://raw.githubusercontent.com/mathew1046/Arimani/main/images/Sample%20video.mp4)
+
+*The video demonstrates the working of the website*
 
 
 ---
