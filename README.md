@@ -41,7 +41,7 @@ For Software:
 
 ### Project Demo
 # Video
-[![Watch the video](https://raw.githubusercontent.com/mathew1046/Arimani/main/images/Homepage.png)](https://raw.githubusercontent.com/mathew1046/Arimani/main/images/Sample%20video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/mathew1046/Arimani/main/images/Homepage.png)](https://youtu.be/5rragzIMapY)
 
 *The video demonstrates the working of the website*
 
